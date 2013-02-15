@@ -22,4 +22,7 @@ public class SampleTest {
 		// TODO Auto-generated constructor stub
 		System.out.println("constructor...");
 	}
+	static void method(){
+		System.out.println("some another changes...");
+	}
 }
