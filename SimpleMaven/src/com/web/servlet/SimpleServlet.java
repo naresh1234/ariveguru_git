@@ -25,6 +25,6 @@ public class SimpleServlet extends HttpServlet {
 		out.println("Name is: "+name);
 		out.println("</body>");
 		out.println("</html>");
-		System.out.println("Hello From Servlet....");
+		System.out.println("Welcome to GIT World....");
 	}
 }
